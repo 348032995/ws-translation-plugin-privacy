@@ -38,7 +38,7 @@
 
 如果您对此隐私政策有任何疑问，请通过以下方式联系我们：
 - 邮箱：348032995@qq.com
-- GitHub：https://github.com/348032995/ws-translation-plugin
+- GitHub：[[https://github.com/348032995/ws-translation-plugin](https://github.com/348032995/ws-translation-plugin-privacy/blob/master/PRIVACY.md)](https://github.com/348032995/ws-translation-plugin-privacy/blob/master/PRIVACY.md)
 
 ### 7. 政策更新
 
