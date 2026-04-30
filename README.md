@@ -12,8 +12,8 @@ This is the privacy policy repository for the WhatsApp Translation Plugin, speci
 
 ## 访问链接 / Access Links
 
-- **隐私政策直链 / Direct Link**: https://github.com/348032995/ws-translation-plugin-privacy/blob/master/PRIVACY.md
-- **GitHub页面 / GitHub Page**: https://github.com/348032995/ws-translation-plugin-privacy/blob/master/PRIVACY.md
+- **隐私政策直链 / Direct Link**: https://github.com/348032995/ws-translation-plugin-privacy/blob/SKYSCRM/PRIVACY.md
+- **GitHub页面 / GitHub Page**: https://github.com/348032995/ws-translation-plugin-privacy/blob/SKYSCRM/PRIVACY.md
 
 ## 相关项目 / Related Project
 
